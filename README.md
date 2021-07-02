@@ -4,6 +4,7 @@ Annual financial data are collected for bankrupt firms approximately 2 years pri
 ### EDA
 
 Nearly equal number of firms are taken for both the classes.
+
 ![count](EDA_images/countoffirms.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
